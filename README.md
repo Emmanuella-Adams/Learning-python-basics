@@ -1,3 +1,9 @@
 ﻿# Learning-python-basics
 
-hmm.
+ ##nothing to see herw
+
+ ###yep
+
+ ####just a lil excersise 
+ 
+
